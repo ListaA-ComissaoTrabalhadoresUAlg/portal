@@ -1,0 +1,12 @@
+---
+title: "Paulo Alves"
+description: "ESEC | Escola Superior de Educação e Comunicação"
+image: E_paulo.png
+---
+
+![](E_paulo.png)
+
+-   **Função atual** | 
+-   **Campus** |
+-   **Sobre mim** |
+-   **A minha visão para a Comissão de Trabalhadores da UAlg** |

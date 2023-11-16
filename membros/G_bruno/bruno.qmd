@@ -1,0 +1,12 @@
+---
+title: "Bruno Jesus"
+description: "FMCB | Faculdade de Medicina e Ciências Biomédicas"
+image: G_bruno.png
+---
+
+![](G_bruno.png)
+
+-   **Função atual** | Técnico Superior
+-   **Campus** | Gambelas
+-   **A minha visão para a Comissão de Trabalhadores da UAlg** | "Estou comprometido em aumentar a eficiência e transparência operacional, focando-me em soluções digitais e sustentáveis que beneficiem todos/as os/as trabalhadores/as da UAlg."
+

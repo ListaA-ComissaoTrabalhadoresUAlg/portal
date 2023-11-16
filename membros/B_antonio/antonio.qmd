@@ -1,0 +1,12 @@
+---
+title: "António Fragoso"
+description: "FCHS | Faculdade de Ciências Humanas e Sociais"
+image: B_antonio.png
+---
+
+![](B_antonio.png)
+
+-   **Função atual** | 
+-   **Campus** |
+-   **Sobre mim** |
+-   **A minha visão para a Comissão de Trabalhadores da UAlg** |

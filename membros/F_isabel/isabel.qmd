@@ -1,0 +1,12 @@
+---
+title: "Isabel Duarte"
+description: "CINTESIS UAlg | "
+image: F_isabel.png
+---
+
+![](F_isabel.png)
+
+-   **Função atual** | Investigadora
+-   **Campus** | Gambelas
+-   **Sobre mim** | "Faço voluntariado na Refood e toco ukelele quando preciso de pensar."
+-   **A minha visão para a Comissão de Trabalhadores da UAlg** | "Estarei empenhada em desenvolver programas graduais de formação e desenvolvimento profissional, enriquecendo as competências dos membros da nossa academia para avançarmos juntos."

@@ -1,6 +1,6 @@
 ---
 title: "Isabel Duarte"
-description: "CINTESIS UAlg | "
+description: "CINTESIS UAlg | Centro de Investigação em Tecnologias e Serviços de Saúde - UAlg"
 image: F_isabel.png
 ---
 

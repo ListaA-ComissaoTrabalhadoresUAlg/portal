@@ -1,12 +1,13 @@
 ---
 title: "António Fragoso"
-description: "FCHS | Faculdade de Ciências Humanas e Sociais"
+description: "FCHS | Faculdade de Ciências Humanas e Sociais & CEAD | Centro de investigação em Educação de Adultos e intervenção comunitária"
 image: B_antonio.png
 ---
 
 ![](B_antonio.png)
 
--   **Função atual** | 
--   **Campus** |
--   **Sobre mim** |
--   **A minha visão para a Comissão de Trabalhadores da UAlg** |
+-   **Função atual** | Docente
+-   **Campus** | Gambelas
+-   **Sobre mim** | "A música acompanha-me sempre."
+-   **A minha visão para a Comissão de Trabalhadores da UAlg** | "Aspiro a que a Comissão de Trabalhadores (independentemente de quem a constitua) consiga melhorar a qualidade de vida dos trabalhadores, através de uma prática de escuta e negociação."
+

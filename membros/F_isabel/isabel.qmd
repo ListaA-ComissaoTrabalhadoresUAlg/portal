@@ -1,12 +1,13 @@
 ---
 title: "Isabel Duarte"
-description: "CINTESIS UAlg | Centro de Investigação em Tecnologias e Serviços de Saúde - UAlg"
+description: "CINTESIS UAlg"
 image: F_isabel.png
 ---
 
 ![](F_isabel.png)
 
 -   **Função atual** | Investigadora
+-   **Local** | Centro de Investigação em Tecnologias e Serviços de Saúde - UAlg
 -   **Campus** | Gambelas
 -   **Sobre mim** | "Faço voluntariado na Refood e toco ukelele quando preciso de pensar."
 -   **A minha visão para a Comissão de Trabalhadores da UAlg** | "Estarei empenhada em desenvolver programas graduais de formação e desenvolvimento profissional, enriquecendo as competências dos membros da nossa academia para avançarmos juntos."

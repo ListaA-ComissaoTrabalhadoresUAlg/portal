@@ -6,8 +6,10 @@ title: "Propostas"
 
 ### 1. Estabelecer uma relação de **diálogo construtivo** com os Órgãos de Governo e de Gestão da Universidade do Algarve.
 
-  - Como?
-
+  - Como? 
+  
+    - Apresentando sempre uma postura diplomática, emparelhando cada reinvindicação com uma proposta de solução construtiva e aberta a negociação e compromisso, sempre de uma forma transparente. 
+  
 :::
 
 ::: {.callout-caution appearance="default" collapse="true" icon=false}
@@ -40,12 +42,24 @@ title: "Propostas"
 ## 5. Incentivar a **melhoria contínua** do ambiente e dos locais de trabalho.
 
   - Como?
-
+  
+    - Solicitando junto da Reitoria o respeito pelos seguintes direitos fundamentais dos trabalhadores:  
+    
+      - Simplificação do acesso a consultas de medicina no trabalho (atualmente mediante convocação e deslocação externa aos campi);   
+      - Assegurar a existência de mobiliário adequado nos escritórios de trabalho (cadeiras adequadas e suporte para os pés);   
+      - Assegurar o conforto térmico nos edifícios da UAlg;   
+      - Assegurar a higiéne e limpeza adequadas do interior e exterior dos campi;   
+      - Cuidar dos espaços externos para aumentar a auto-estima de todos aqueles que frequentam os campi;   
+      - Implementar um programa contínuo de manutenção dos espaços removendo material/mobiliário desatualizado para reciclagem e libertação dos espaços individuais e comuns aumentando o conforto no local de trabalho.   
+  
+  
 :::
 
 ::: {.callout-caution appearance="default" collapse="true" icon=false}
 
 ## 6. Desenvolver **mecanismos de auscultação** dos trabalhadores da UAlg.
+
+  - Como?
 
   - Para assuntos de interesse geral: 
   
@@ -78,8 +92,13 @@ title: "Propostas"
 
 ## 8. Contribuir para a **criação de uma cultura de participação dos trabalhadores nos processos de gestão** da UAlg, tornando a existência da Comissão de Trabalhadores um facto permanente, duradouro e natural.
 
-  - Como?
+  - Como? 
 
+    - De acordo com a Carta de Direitos e Deveres da Comunidade Académica da UAlg (Aprovada em Conselho Geral de 28 de janeiro de 2013), (cf. Artigo 4.º), prevê o direito de petição, podendo este *"ser exercido individual ou coletivamente, podendo consistir na apresentação de um pedido, proposta, denúncia ou queixa, ou na manifestação de uma opinião contrária a uma decisão já tomada, no sentido de revertê-la, devendo os órgãos administrativos pronunciarem-se sobre os assuntos apresentados e inseridos na área da sua competência."*    
+    
+    - Propomos assim que a UAlg reconheça e proteja este direito à petição de todos os membros da sua comunidade académica, através da sua regulamentação, por forma a garantir que os assuntos peticionados sejam obrigatoriamente discutidos (à semelhança do que acontece com as petições à Assembleia da República Portuguesa) incluindo a participação ativa das comunidades UAlg envolvidas na petição.
+
+  
 :::
 
 ::: {.callout-caution appearance="default" collapse="true" icon=false}
@@ -87,7 +106,11 @@ title: "Propostas"
 ## 9. Queremos, de forma leal mas firme, **defender os interesses dos trabalhadores**, tendo sempre presente o superior interesse da Instituição à qual nos orgulhamos de pertencer: a **Universidade do Algarve**.
 
   - Como?
-
+  
+    - Ouvindo todos os trabalhadores da UAlg, e funcionando como porta-vozes dos seus assuntos de interesse.   
+    
+    - Comprometemo-nos a apresentar sempre uma postura moderada e focada em encontrar soluções no estrito cumprimento dos melhores interesses de todas as partes envolvidas: os trabalhadores e a UAlg. 
+    
 :::
 
 

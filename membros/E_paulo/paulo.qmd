@@ -6,8 +6,5 @@ image: E_paulo.png
 
 ![](E_paulo.png)
 
--   **Função atual** | 
 -   **Local** | Escola Superior de Educação e Comunicação
--   **Campus** |
--   **Sobre mim** |
--   **A minha visão para a Comissão de Trabalhadores da UAlg** |
+
